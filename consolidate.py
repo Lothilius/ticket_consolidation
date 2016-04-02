@@ -9,7 +9,7 @@ import plotly.graph_objs as go
 import plotly.tools as tls
 import re
 
-tls.set_credentials_file(username='Lothilius', api_key='9ra0mmx2o9')
+tls.set_credentials_file(username='Lothilius', api_key='')
 pd.set_option('display.width', 160)
 
 def convert_time(unicode_series):
